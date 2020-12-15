@@ -1,0 +1,6 @@
+*.pyc
+*.blend[1-9]
+*.pur
+__pycache__
+/dist/
+/Reference/Video/
